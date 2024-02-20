@@ -1,5 +1,7 @@
 # Algorithm-MD5-C_Sharp
 
+I searched through many sources and visited numerous websites, but I couldn't find the MD5 algorithm in C#. So, I decided to learn and research the algorithm further and then program it in C# after gaining knowledge.
+
 
 This Windows application, developed in C# programming language, implements the MD5 security algorithm for encrypting written texts. MD5 is a widely used algorithm for data encryption and checksum verification. By integrating MD5 into the software, users can securely encode their messages and ensure data integrity.
 
